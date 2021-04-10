@@ -21,7 +21,7 @@ To extract the data I used the Python programming language as well as some of it
 All weapons share some basic attributes while other attributes are unique to the weapon type.<br>
 Aside from that, Warframe has several weapons with special attacks that are unique to that weapon. Consequently, a csv format is not best suited for this kind of data.<br>
 However, the weapons' attributes are grouped up in different sections of the info card on the website. This gave me the idea to organize the data in a json format.<br>
-Each weapon's name is the key and the value is made up of the weapon's attributes, json formated by the section they belong to.<br><br>
+Each weapon's name is the key and the value is made up of the weapon's attributes, json formatted by the section they belong to.<br><br>
 ![alt text](https://github.com/VictorMegir/Web-scraping-Warframe-weapons/blob/main/prt.png?raw=true)
 
 ### More weapons?
