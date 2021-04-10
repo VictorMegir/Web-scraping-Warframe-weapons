@@ -30,4 +30,4 @@ If you want to get an up to date version of the dataset, feel free to use my cod
 This dataset is up to date as of 4/10/2021. Warframe Update 29.10.10.<br>
 I used Python 3.9.1 and bs4 0.0.1.<br>
 
-The dataset can also be found here: 
+The dataset can also be found here: https://www.kaggle.com/victormegir/warframe-weapons
